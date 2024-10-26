@@ -1,0 +1,30 @@
+.listing-item{
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 15px 0;
+    margin-bottom: 10px;
+}
+
+.listing-image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.navbar .btn-link {
+    padding: 0;
+    display: flex;
+    align-items: center;
+    margin-top: 6px; 
+}
+.btn-danger {
+    margin-bottom: 10px; 
+}
+
+.btn-primary {
+    margin-top: 10px; 
+}
+ li{
+    list-style-type: none;
+ }
